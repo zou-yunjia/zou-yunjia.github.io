@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Chengbin Feng's Blog"
+title                    : "Yunjia Zou's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Chengbin Feng"
+name                     : "Yunjia Zou"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "Chengbin Feng"
-  avatar           : "/assets/images/chengbin.jpg"
+  avatar           : "/assets/images/yunjia.jpg"
   bio              : "Welcome to my blog! I'm Chengbin Feng, a researcher at the University of New South Wales specializing in artificial intelligence. Here, I share insights from my AI research and explore its real-world applications. I hope you find the information both informative and inspiring."
   location         : "Sydney, Australia"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:chengbin.feng@unsw.edu.au"
+      url: "mailto:yzou0447@uni.sydney.edu.au"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.kfengc27.com"

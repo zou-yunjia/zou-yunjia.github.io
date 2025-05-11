@@ -41,7 +41,7 @@ I founded **[Suyi Translation Pty Ltd (速译)](https://suyitranslation.com.au/)
 - [https://www.suyi.com.au/(Chinese)](https://www.suyi.com.au/)
 
 ## Contact Information
-- **Email**: [chengbin.feng@unsw.edu.au](mailto:chengbin.feng@unsw.edu.au)
-- **Email**: [chengbin.feng@suyi.com.au](mailto:chengbin.feng@suyi.com.au)
+- **Email**: [yzou0447@uni.sydney.edu.au](mailto:yzou0447@uni.sydney.edu.au)
+- **Email**: [zouyj0602@gmail.com](mailto:zouyj0602@gmail.com)
 - **ORCID**: [0000-0002-4068-4828](https://orcid.org/0000-0002-4068-4828)
 
