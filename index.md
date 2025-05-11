@@ -30,6 +30,5 @@ Beyond my academic interests, I enjoy exploring local food scenes—especially i
 
 ## Contact Information
 - **Email**: [yzou0447@uni.sydney.edu.au](mailto:yzou0447@uni.sydney.edu.au)
-- **Email**: [zouyj0602@gmail.com](mailto:zouyj0602@gmail.com)
 - **ORCID**: [0000-0002-4068-4828](https://orcid.org/0000-0002-4068-4828)
 
