@@ -21,7 +21,7 @@ title                    : "Yunjia Zou's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yunjia Zou"
-description              : "An amazing website."
+description              : "My personal blog."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,30 +113,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chengbin Feng"
+  name             : "Yunjia Zou"
   avatar           : "/assets/images/yunjia.jpg"
-  bio              : "Welcome to my blog! I'm Chengbin Feng, a researcher at the University of New South Wales specializing in artificial intelligence. Here, I share insights from my AI research and explore its real-world applications. I hope you find the information both informative and inspiring."
+  bio              : "Welcome to my blog! I'm Yunjia Zou, a second year master student at University of Sydney."
   location         : "Sydney, Australia"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yzou0447@uni.sydney.edu.au"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.kfengc27.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kfengc27"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/kfengc27"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kfengc27"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/kfengc27/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yunjia-zou-65109b322/"
+
+
 
 # Site Footer
 footer:
