@@ -10,7 +10,7 @@ permalink: /
 Hello, I'm **Yunjia Zou**, a second-year Master's student in Economics at The University of Sydney (USYD).  I am actively seeking a Research Assistant role where I can contribute to impactful projects and further develop my skills in data analysis, machine learning, and economic modeling.
 
 ## About Me
-I have a passion for exploring the world through the lenses of mathematics and computer science. My interdisciplinary background has enriched my knowledge base, and I have a wide range of hobbies, including playing musical instruments, drawing, and basketball.
+I have a passion for exploring the world through the lenses of mathematics and computer science. 
 
 ## Research Interests
 - Econometrics and Causal Inference
