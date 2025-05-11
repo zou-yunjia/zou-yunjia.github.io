@@ -1,0 +1,16 @@
+# /_data/authors.yml
+author:
+  name        : "Chengbin Feng"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/chengbin.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:chengbin.feng@unsw.edu.au"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.kfeng.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kfengc27"
+
