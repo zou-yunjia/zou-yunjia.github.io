@@ -16,17 +16,12 @@ Beyond my academic interests, I enjoy exploring local food scenes—especially i
 - Econometrics and Causal Inference
 - Behavioral Economics
 
+# Skills 
+- Latex 
 
-
-## Publication 
-- Leveraging Public Social Media Footprint to Predict Compliance Intentions During Global Crises: A Depth Data Approach (Supervised by Dr. Songting Dong and Dr. Veronica Jiang)
-
-## Working Experience 
-- 
-
-
-## Real World Practice 
-
+# Languages 
+- English (Fluent)
+- Chinese (Native)
 
 ## Contact Information
 - **Email**: [yzou0447@uni.sydney.edu.au](mailto:yzou0447@uni.sydney.edu.au)
