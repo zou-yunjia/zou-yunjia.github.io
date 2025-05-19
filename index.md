@@ -19,6 +19,7 @@ Beyond my academic interests, I enjoy exploring local food scenes—especially i
 # Skills 
 - Stata 
 - R 
+- Python
 - Latex 
 
 # Languages 
@@ -26,6 +27,7 @@ Beyond my academic interests, I enjoy exploring local food scenes—especially i
 - Chinese (Native)
 
 ## Contact Information
-- **Email**: [yzou0447@uni.sydney.edu.au](mailto:yzou0447@uni.sydney.edu.au)
+- **Email 1**: [yzou0447@uni.sydney.edu.au](mailto:yzou0447@uni.sydney.edu.au)
+- **Email 2**: [yzou0447@uni.sydney.edu.au](mailto:yzou0447@uni.sydney.edu.au)
 - **ORCID**: [0000-0002-4068-4828](https://orcid.org/0000-0002-4068-4828)
 
