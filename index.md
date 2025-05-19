@@ -17,6 +17,8 @@ Beyond my academic interests, I enjoy exploring local food scenes—especially i
 - Behavioral Economics
 
 # Skills 
+- Stata 
+- R 
 - Latex 
 
 # Languages 
