@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "About Me"
+title: ""
 author_profile: true
 
 permalink: /
