@@ -3,3 +3,5 @@ main:
     url: /
   - title: My CV
     url: /assets/cv.pdf
+  - title: My Academic Transcript
+    url: /assets/transcript.pdf
