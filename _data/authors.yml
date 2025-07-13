@@ -2,11 +2,11 @@
 author:
   name        : "Yunjia Zou"
   bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/chengbin.jpg"
+  avatar      : "/assets/images/yunjia.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:chengbin.feng@unsw.edu.au"
+      url: "mailto:yzou0447@uni.sydney.edu.au"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.kfeng.com"
