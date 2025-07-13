@@ -1,7 +1,5 @@
 main:
-  - title: "Home"
+  - title: Home
     url: /
-  - title: "My CV"
-    url: /assets/Yunjia_Resume.pdf
-
-
+  - title: My CV
+    url: /assets/cv.pdf
