@@ -12,6 +12,7 @@ Hello, I'm *Yunjia Zou*, a second-year Master’s student in Economics at the Un
 ## Research Interests
 - Econometrics and Causal Inference
 - Behavioral Economics
+- Game Theory 
 - I'm currently exploring various research areas
 
 # Skills 
