@@ -7,11 +7,12 @@ permalink: /
 ---
 
 # Welcome to My Blog
-Hello, I'm *Yunjia Zou*, a second-year Master’s student in Economics at the University of Sydney (USYD). I am currently seeking a Research Assistant position where I can contribute to meaningful projects and strengthen my skills in data analysis, machine learning, and economic modeling. I am especially interested in interdisciplinary research that bridges quantitative methods with real-world policy or business applications.
+Hello, I'm *Yunjia Zou*, a second-year Master’s student in Economics at the University of Sydney (USYD), with a strong interest in empirical research and quantitative analysis. I'm familiar with econometric modelling, regression diagnostics, and data cleaning using Stata, and able to produce well-structured academic outputs using LaTeX. I am currently exploring various research areas and would love the opportunity to assist in ongoing projects and learn through collaboration.
 
 ## Research Interests
 - Econometrics and Causal Inference
 - Behavioral Economics
+- I'm currently exploring various research areas
 
 # Skills 
 - Stata 
